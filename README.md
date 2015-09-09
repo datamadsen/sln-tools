@@ -4,10 +4,10 @@ it more comfortable to work with git bash and visual studio on windows.
 
 # Features
 
-	* Open solution in current directory.
+* Open solution in current directory.
 
-	* Close the visual studio instance for the solution in the current
-		directory.
+* Close the visual studio instance for the solution in the current
+	directory.
 
 # Installation
 Place the script somewhere, for instance in `~/.utilities` and make an alias to

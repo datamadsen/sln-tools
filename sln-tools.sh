@@ -27,8 +27,8 @@ upfind_sln() {
 }
 
 if [[ $1 =~ ^(open|close)$ ]]; then
-  "$@"
+	"$@"
 else
-  echo "Invalid subcommand $1" >&2
-  exit 1
+	echo "Invalid subcommand $1" >&2
+	exit 1
 fi
